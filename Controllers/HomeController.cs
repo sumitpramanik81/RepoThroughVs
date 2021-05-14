@@ -22,7 +22,7 @@ namespace WebApplication1.Controllers
         {
             return View();
         }
-
+        //test
         public IActionResult Privacy()
         {
             return View();
